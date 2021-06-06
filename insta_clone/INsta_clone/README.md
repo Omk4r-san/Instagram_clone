@@ -1,4 +1,4 @@
-# sendry_app
+# Instagram_clone
 
 A new Flutter project.
 
